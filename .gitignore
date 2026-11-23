@@ -1,0 +1,13 @@
+# Raw source downloads (several GB of official exports; re-download with
+# analysis/fetch_and_aggregate.py download)
+data/raw_download/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
