@@ -1,0 +1,9 @@
+check,rows
+duplicate_full_rows_removed,1920778
+negative_sales_rows,11763
+negative_volume_rows,11579
+nonpositive_bottle_rows,11772
+null_category_rows,25066
+null_county_rows,164449
+null_vendor_rows,7
+zero_sales_rows,4953
